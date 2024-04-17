@@ -8,6 +8,7 @@ import GalleryCard3 from './BlueticDraftIMGS/BIM.jpeg';
 
 
 function Gallery(props:any) {
+  console.log(props)
   const [modalShow, setModalShow] = React.useState(false);
   const[modalContent,setModalContent]=React.useState({
     Heading:'',
