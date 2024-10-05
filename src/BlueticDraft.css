@@ -73,11 +73,11 @@ color: rgb(242, 192, 20);
   right: 10%;
 }
 .HomePageLeft:hover, .HomePageRight:hover{
-  color: #2A363B;
+  color:  #0E1F37;
 }
 .modal-header{
 background-color: #fff !important;
-color:#1A2421;
+color:#0E1F37;
 
 }
 .modal-title{
@@ -150,7 +150,7 @@ color:#1A2421;
   padding: 20px;
   border: 1px solid #dedede;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  background-color: #1A2421;
+  background-color: #0E1F37;
 }
 .SSDServices>li{
   color: #fff;
@@ -253,7 +253,7 @@ color:#1A2421;
 .SubTitle{
   text-align: center;
   letter-spacing: 1em;
-  color: #000;
+  color: #0E1F37;
 }
 .FooterIcon{
   display: flex;
@@ -279,7 +279,7 @@ color:#1A2421;
   position: sticky;
   top: 0;
   /* background-color: #2A363B; */
-  background-color: #1A2421;
+  background-color: #0E1F37;
 }
 
 /* Home */
@@ -301,8 +301,8 @@ bottom: 50%;
 }
 
 .navbar img {
-  height: 50px;
-  width: auto;
+  height: 65px;
+  width: 65px;
   justify-self: start;
   margin-left: 20px;
 }
@@ -324,10 +324,11 @@ bottom: 50%;
 }
 
 .nav-item a:hover {
-  color: #3498db;
+  color:rgb(242, 192, 20);
+
 }
 .nav-item .linkSelected{
-  color: #3498db;
+  color: rgb(242, 192, 20);
 }
 
 /* SECTIONS */
@@ -456,7 +457,7 @@ bottom: 50%;
   .card-title {
     font-size: 25px;
     line-height: 1.1em;
-    color: #32325d;
+    color: #0E1F37;
     margin-bottom: 0.2em;
   }
 
@@ -648,7 +649,7 @@ bottom: 50%;
 .right {
   width: 50%;
   /* min-height: 400px; */
-  background-color: #303137;
+  background-color:  #0E1F37;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -656,6 +657,9 @@ bottom: 50%;
   border-radius: 8px;
   color: white;
   margin-left: -150px;
+}
+.modal-title{
+  color: #0E1F37;
 }
 .right h1 {
   font-size: 40px;
@@ -833,7 +837,7 @@ bottom: 50%;
     justify-content: start;
     top: 80px;
     left: 0px;
-    background-color: #1f756db8;
+    background-color: #0E1F37;
     width: 100%;
     height: calc(100vh - 80px);
     transform: translate(-101%);
@@ -845,7 +849,7 @@ bottom: 50%;
     padding: 15px;
   }
   .nav-item a:hover {
-    color: #2A363B;
+    color: #0E1F37;
   }
   .navbar li:first-child {
     margin-top: 50px;

@@ -38,7 +38,7 @@ function ConnectUs() {
           message: Body,
         };
 
-        const response = await axios.post('http://localhost:4000/sendEmail', sendMailData);
+        const response = await axios.post('https://blueticdraftscalebackend.onrender.com/sendEmail', sendMailData);
         console.log(response.data)
         alert('Mail sent successfully')
       } else {
@@ -67,14 +67,14 @@ function ConnectUs() {
         <div className='col-md-6'>
           <h3>
             <span style={{ color: "#2A363B" }}>
-              CONNECT
+              CONTACT
             </span>
             <span style={{ color: "#f2c014" }}>
               &nbsp; US
             </span>
           </h3>
           <p style={{ textAlign: 'left' }}>
-            WHEN YOU NEED EXPERIENCE,WE HAVE IT COVERED.
+            WHEN YOU NEED EXPERIENCE, WE HAVE IT COVERED.
           </p>
 
           <div style={{ height: '30px' }}></div>

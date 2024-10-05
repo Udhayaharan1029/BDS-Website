@@ -9,7 +9,7 @@ import ConnectUs from "./ConnectUs";
 // import ServiceDetailing from './ServiceDetailing';
 import BlueticDraftFooter from "./BlueticDraftFooter";
 import Service from "./BlueticDraftIMGS/ImageService.jpg";
-import BDSLogo from "./BDS-Logo.jpg";
+import BDSLogo from "./BDS_LOGO24.png";
 import structualDetailing from "./BlueticDraftIMGS/structural-steel-detailing-service.jpeg";
 import structualDetailing2 from "./BlueticDraftIMGS/structural-steel-detailing-service2.jpeg";
 import MISCELLANEOUSDetailing from"./BlueticDraftIMGS/mis-detailing-service.jpeg";
@@ -67,7 +67,7 @@ function BlueticDraft() {
   return (
     <div className="App">
       <div
-        style={{ height: "80px", background: "#2A363B", position: "relative" }}
+        style={{ height: "80px", background: "#0E1F37", position: "relative" }}
       >
         <header>
           <div className="container-fluid">
@@ -161,7 +161,7 @@ function BlueticDraft() {
                         onClick={(eve) => handleNavClick(4,connectRef, eve)}
                         className={activeIndex === 4?"linkSelected":""}
                       >
-                        Connect Us
+                        Contact Us
                       </a>
                     </li>
                   </ul>
@@ -200,7 +200,7 @@ function BlueticDraft() {
                 <div className="ServicePageTexts">
                   <h3 className="ServicePageTitle">
                     OUR
-                    <span className="BDSSecondayColor"> SERVICES </span>
+                    <span className="BDSSecondayColor"> EXPERTISE </span>
                   </h3>
                   <p
                     style={{
@@ -303,35 +303,17 @@ function BlueticDraft() {
                           </h3>
                           
                           <p className='serviceDetailingPara'>
-                            Structural steel detailing plays an important role
-                            in successfully handling the requirements of
-                            material, manpower, equipment and tools on site for
-                            fabricators. The up-to-date software used by BDS in
-                            3D modeling, 2D drafting and steel fabrication
-                            drawings detects any clash or extraneous part in a
-                            structure during the initial stages, which helps our
-                            clients remedy it at the planning phase itself. When
-                            you give us the task of doing the design of steel
-                            structures, we make sure there is no
-                            miscommunication among the architects, engineers and
-                            contractors resulting in a vibrant team bonding
-                            throughout the project.
+                          When it comes to effectively managing the material, labor, equipment, and tool requirements of fabricators on the job site, structural steel detailing is crucial. Modern software that BDS uses for 2D drafting, 3D modeling, and steel fabrication drawings finds conflicts or unnecessary parts in a building early on, allowing our clients to address them during the planning stage. When you assign us the job of designing steel structures, we make sure that the contractors, engineers, and architects are all communicating with each other clearly, which fosters strong team dynamics throughout the project.
                           </p>
                           <p  className='serviceDetailingPara' >
-                            Using the latest 3D Modeling Software from Tekla, we
-                            provide Models, Erection and Shop Detail drawings
-                            along with Material Lists in various formats
-                            including EJE and KSS.
+                          We manufacture models, erection and shop detail drawings, material lists in many formats, and more using the most recent 3D modeling software from Tekla encompassing KSS and EJE.
+
                           </p>
                           <p  className='serviceDetailingPara'>
-                            A great benefit of using 3D software is our ability
-                            to produce CNC and DXF files directly from the model
-                            for automated fab shops if needed.
+                          A big benefit of using 3D software is our ability to produce CNC and DXF files directly from the model for automated fab facilities if needed.
                           </p>
                           <p  className='serviceDetailingPara'>
-                            Our goal is to provide high quality drawings ready
-                            for fabrication to accommodate the customer’s needs
-                            and schedule.
+                          In order to meet the needs and schedules of the customer, we strive to deliver high-quality drawings that are prepared for manufacturing.
                           </p>
 
                           <h6> INTERNATIONAL CODES AND STANDARDS WE FOLLOW </h6>
@@ -368,22 +350,13 @@ function BlueticDraft() {
                             <span style={{width:'30%', borderBottom:'1px solid rgb(242, 192, 20)'}}></span>
                           </h3>
                           <p  className='serviceDetailingPara'>
-                            Our portfolio spans across structural steel elements
-                            such as complex staircases, hand-railings and other
-                            intricate misc. steel construction items. We
-                            understand the detailing needs from a fabrication
-                            point of view and execute comprehensive drawings
-                            that are conformed to your unique requirements.
+                          Our portfolio includes delicate structural steel features including handrailings, elaborate stairs, and other miscellaneous steel construction items. We provide detailed drawings that adhere to your specific specifications and comprehend the detailing required from a fabrication perspective.
                           </p>
                           <p  className='serviceDetailingPara'>
-                            Using the latest 3D modeling tools and in compliance
-                            with the AISC code, we will make sure you present
-                            your bids on time and in entirety.
+                          We'll make sure your proposals are submitted on time and in full, following the AISC code and utilizing the most recent 3D modeling technologies.
                           </p>
                           <p  className='serviceDetailingPara'>
-                            No job is too small for us and nothing is
-                            miscellaneous when you add an element of technical
-                            clarity to it.
+                          Nothing is too minor for us to handle, and nothing becomes unrelated when you incorporate a technical element into it.
                           </p>
                         </>
                       )}
@@ -393,14 +366,7 @@ function BlueticDraft() {
                           <span style={{width:'30%', borderBottom:'1px solid rgb(242, 192, 20)'}}></span>
                           </h3>
                           <p  className='serviceDetailingPara'>
-                            By combining our staff’s experience with the latest
-                            3D technology, we can provide BIM Coordination
-                            Services in support of Fabricators, Contractors or
-                            Owners to provide clash detection and problem
-                            resolution before issues arise in the field. BIM is
-                            an intelligent 3D model-based process that gives
-                            construction professionals the insight to more
-                            efficiently plan, design and construct a project.
+                          We may offer BIM Coordination Services to help Fabricators, Contractors, or Owners with clash identification and problem resolution before problems occur in the field by fusing our staff's experience with the newest 3D technology. With the use of BIM, an intelligent 3D model-based approach, construction professionals can plan, design, and build projects more effectively.
                           </p>
                         </>
                       )}
@@ -411,7 +377,7 @@ function BlueticDraft() {
                             <span style={{width:'30%', borderBottom:'1px solid rgb(242, 192, 20)'}}></span>
                           </h3>
                           <p  className='serviceDetailingPara'>
-                          All connection design calculations are performed in-house under the supervision of one of our licensed engineers. Our engineers back-check these connection designs to ensure their adequacy and cost efficiency.
+                          Every connection design computation is carried out internally, overseen by one of our certified engineers. These connection designs are double-checked by our engineers to make sure they are adequate and economical.
                           </p>
                         </>
                       )}
@@ -423,7 +389,7 @@ function BlueticDraft() {
                           </h3>
                            
                           <p  className='serviceDetailingPara'>
-                          With our experience working in a fabrication shop, we uniquely understand the challenges of bidding projects. We are able to develop early models for estimating or assist with takeoffs if necessary. Think of us as an extension of your estimating department.
+                          Our background in working in a fabrication plant gives us a unique perspective on the difficulties involved in project bidding. If needed, we are able to help with takeoffs or create preliminary models for estimation. Consider us to be an addition to your estimates division.
                           </p>
                         </>
                       )}

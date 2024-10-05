@@ -59,13 +59,13 @@ function Gallery(props:any) {
       <div className='row' style={{width:'100%'}}>
       <div className='col-12 text-center'>
           <h3>
-            <span style={{color:"#2A363B"}}>Our
+            <span style={{color:"#0E1F37"}}>Our
               </span> 
               <span style={{color:"#f2c014"}}>
               &nbsp;  Gallery
               </span>
               </h3>
-          <p style={{textAlign:'center'}} className='SubTitle'>
+          <p style={{textAlign:'center',color:"#0E1F37"}} className='SubTitle'>
             BLUETIC DRAFT SCALE
           </p>
             {/* <p style={{letterSpacing:'.7em',display:'grid'}}>BLUETIC DRAFT SCALE

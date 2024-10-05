@@ -83,7 +83,7 @@ function Home() {
       </div>
       <div className="card-info">
         <h2 className="card-title"> 1K TONS PER MONTH</h2>
-        <p className="card-intro">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        <p className="card-intro">We proudly produce 1,000 tons per month, showcasing our commitment to consistency and quality. This impressive output allows us to meet the demands of our clients efficiently while maintaining the highest standards in every project.</p>
       </div>
     </div>
   </div>
@@ -95,7 +95,8 @@ function Home() {
       </div>
       <div className="card-info">
         <h2 className="card-title">100 + PROJECTS</h2>
-        <p className="card-intro">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        <p className="card-intro">
+        Having completed over 100 projects in structural steel detailing, we have established a strong track record of excellence and precision. Each project showcases our dedication to delivering high-quality solutions that meet the unique needs of our clients, solidifying our position as a leader in the industry.</p>
       </div>
     </div>
   </div>

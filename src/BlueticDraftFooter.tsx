@@ -4,16 +4,17 @@ import 'bootstrap/dist/css/bootstrap.css';
 function BlueticDraftFooter() {
   return (
     <div>
-      <footer style={{background:'#1A2421',width:'100%'}}>
-        <div className='container' style={{background:'#1A2421',width:'100%',paddingRight:'15px',paddingLeft:'15px',marginRight:'auto',marginLeft:"auto",paddingTop:'50px',paddingBottom:'50px'}}>
+      <footer style={{background:'#0E1F37',width:'100%'}}>
+        <div className='container' style={{background:'#0E1F37',width:'100%',paddingRight:'15px',paddingLeft:'15px',marginRight:'auto',marginLeft:"auto",paddingTop:'50px',paddingBottom:'50px'}}>
           <div className='row'style={{width:'100%'}}>
               <div className='col-md-6 ' >
                 <div>
                   <p style={{fontSize:'18px',color:'#fff',textAlign:'left'}} className='paraStyle'>
                     <ul className='ICASstyles' style={{ listStyleType: "none" }}>
-                      <li><i className="bi bi-emoji-smile-fill"></i> Having a strong customer base in developed countries, we are poised for fast-paced growth through spreading to newer geographies and expanding client base in existing markets.</li>
-                      <li><i className="bi bi-emoji-smile-fill"></i> With cutting-edge technologies, an experienced and dedicated team, and a passion for excellence.</li>
-                      <li><i className="bi bi-emoji-smile-fill"></i> We deliver the best structural solutions even in the most challenging scenario. Customer satisfaction is our ultimate goal.</li>
+                      <li><i className="bi bi-emoji-smile-fill"></i> With a robust customer base in developed countries, we are positioned for rapid growth as we expand into new regions and deepen our presence in existing markets. Our strategic approach ensures that we effectively meet the evolving needs of our clients while enhancing our global footprint.</li>
+                      <li><i className="bi bi-emoji-smile-fill"></i> 
+                      Armed with cutting-edge technologies and a dedicated team, we pursue excellence in every project.</li>
+                      <li><i className="bi bi-emoji-smile-fill"></i> We provide the best structural solutions, even in the most challenging situations, with customer satisfaction as our ultimate goal.</li>
                     </ul>
                  
                    
