@@ -394,7 +394,7 @@ function BlueticDraft() {
                         </>
                       )}
                     </div>
-                    <div className="col-md-3">
+                    <div className="col-md-4">
                       <h5>SERVICES</h5>
                       <ul className="SSDServices">
                         <li

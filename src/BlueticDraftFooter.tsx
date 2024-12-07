@@ -11,13 +11,12 @@ function BlueticDraftFooter() {
                 <div>
                   <p style={{fontSize:'18px',color:'#fff',textAlign:'left'}} className='paraStyle'>
                     <ul className='ICASstyles' style={{ listStyleType: "none" }}>
-                      <li><i className="bi bi-emoji-smile-fill"></i> With a robust customer base in developed countries, we are positioned for rapid growth as we expand into new regions and deepen our presence in existing markets. Our strategic approach ensures that we effectively meet the evolving needs of our clients while enhancing our global footprint.</li>
-                      <li><i className="bi bi-emoji-smile-fill"></i> 
+                      <li><i className="bi bi-arrow-right-short"></i> With a robust customer base in developed countries, we are positioned for rapid growth as we expand into new regions and deepen our presence in existing markets. Our strategic approach ensures that we effectively meet the evolving needs of our clients while enhancing our global footprint.</li>
+                      <li><i className="bi bi-arrow-right-short"></i> 
                       Armed with cutting-edge technologies and a dedicated team, we pursue excellence in every project.</li>
-                      <li><i className="bi bi-emoji-smile-fill"></i> We provide the best structural solutions, even in the most challenging situations, with customer satisfaction as our ultimate goal.</li>
+                      <li><i className="bi bi-arrow-right-short"></i> We provide the best structural solutions, even in the most challenging situations, with customer satisfaction as our ultimate goal.</li>
                     </ul>
-                 
-                   
+        
                   </p>
                 </div>
               </div>
@@ -36,7 +35,7 @@ function BlueticDraftFooter() {
                 <div style={{display:'flex'}}>
                 <i className="bi bi-geo-alt-fill"></i>
                   <p style={{marginLeft:'10px'}}>
-                  Site No 1, 1st Floor, 1st C Basapura Main Road, Manjun Electronics City, Bangalore South, Bangalore, KA 560100, India, Karnataka, 560100.
+                 Bangalore, Karnataka, India.
                   </p>
                 </div>
               </li>
